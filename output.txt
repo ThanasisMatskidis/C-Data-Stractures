@@ -1,0 +1,408 @@
+MINHEAP: 
+2.00
+3.00
+4.00
+10.00
+5.00
+7.00
+20.00
+30.00
+50.00
+70.00
+60.00
+10000.00
+100000.00
+1000000.00
+100000000.00
+
+Minheap build time: 871 microseconds.
+
+MAXHEAP: 
+100000000.00
+70.00
+1000000.00
+50.00
+60.00
+100000.00
+20.00
+3.00
+30.00
+2.00
+5.00
+10000.00
+7.00
+10.00
+4.00
+
+Maxheap build time: 678 microseconds.
+
+Minimum of MINHEAP: 2
+
+Get the minimum element of Minheap in: 17 microseconds.
+
+Max of MAXHEAP: 100000000.00
+
+Get the max element of Maxheap in: 16 microseconds.
+
+The size of the minheap is: 15
+
+Get the size of Minheap in: 10 microseconds.
+
+The size of the maxheap is: 15
+
+Get the size of Maxheap in: 10 microseconds.
+
+MINHEAP after the insertion of 10.00: 
+2.00
+3.00
+4.00
+10.00
+5.00
+7.00
+20.00
+10.00
+50.00
+70.00
+60.00
+10000.00
+100000.00
+1000000.00
+100000000.00
+30.00
+
+Insertion time of 10.00 in Minheap: 609 microseconds.
+
+The size of the minheap is: 16
+
+Get the size of Minheap in: 13 microseconds.
+
+Minimum of MINHEAP: 2
+
+Get the minimum element of Minheap in: 10 microseconds.
+
+MINHEAP after the insertion of 100.00: 
+2.00
+3.00
+4.00
+10.00
+5.00
+7.00
+20.00
+10.00
+50.00
+70.00
+60.00
+10000.00
+100000.00
+1000000.00
+100000000.00
+30.00
+100.00
+
+Insertion time of 100.00 in Minheap: 620 microseconds.
+
+The size of the minheap is: 17
+
+Get the size of Minheap in: 13 microseconds.
+
+Minimum of MINHEAP: 2
+
+Get the minimum element of Minheap in: 10 microseconds.
+
+MINHEAP after the insertion of 1.00: 
+1.00
+2.00
+4.00
+3.00
+5.00
+7.00
+20.00
+10.00
+10.00
+70.00
+60.00
+10000.00
+100000.00
+1000000.00
+100000000.00
+30.00
+100.00
+50.00
+
+Insertion time of 1.00 in Minheap: 623 microseconds.
+
+The size of the maxheap is: 15
+
+Get the size of Maxheap in: 13 microseconds.
+
+Max of MAXHEAP: 100000000.00
+
+Get the max element of Maxheap in: 14 microseconds.
+
+MAXHEAP after the insertion of 10.00: 
+100000000.00
+70.00
+1000000.00
+50.00
+60.00
+100000.00
+20.00
+10.00
+30.00
+2.00
+5.00
+10000.00
+7.00
+10.00
+4.00
+3.00
+
+Insertion time of 10.00 in Maxheap: 669 microseconds.
+
+The size of the maxheap is: 16
+
+Get the size of Maxheap in: 13 microseconds.
+
+Max of MAXHEAP: 100000000.00
+
+Get the max element of Maxheap in: 14 microseconds.
+
+MAXHEAP after the insertion of 100.00: 
+100000000.00
+100.00
+1000000.00
+70.00
+60.00
+100000.00
+20.00
+50.00
+30.00
+2.00
+5.00
+10000.00
+7.00
+10.00
+4.00
+3.00
+10.00
+
+Insertion time of 100.00 in Maxheap: 589 microseconds.
+
+The size of the maxheap is: 17
+
+Get the size of Maxheap in: 13 microseconds.
+
+Max of MAXHEAP: 100000000.00
+
+Get the max element of Maxheap in: 14 microseconds.
+
+MAXHEAP after the insertion of 1.00: 
+100000000.00
+100.00
+1000000.00
+70.00
+60.00
+100000.00
+20.00
+50.00
+30.00
+2.00
+5.00
+10000.00
+7.00
+10.00
+4.00
+3.00
+10.00
+1.00
+
+Insertion time of 1.00 in Maxheap: 605 microseconds.
+
+The size of the maxheap is: 18
+
+Get the size of Maxheap in: 13 microseconds.
+
+Max of MAXHEAP: 100000000.00
+
+Get the max element of Maxheap in: 14 microseconds.
+
+MINHEAP after the deletion of minimum: 
+2.00
+3.00
+4.00
+10.00
+5.00
+7.00
+20.00
+10.00
+50.00
+70.00
+60.00
+10000.00
+100000.00
+1000000.00
+100000000.00
+30.00
+100.00
+
+Deletion time of minimum element in Minheap: 590 microseconds.
+
+MAXHEAP after the deletion of max: 
+1000000.00
+100.00
+100000.00
+70.00
+60.00
+10000.00
+20.00
+50.00
+30.00
+2.00
+5.00
+1.00
+7.00
+10.00
+4.00
+3.00
+10.00
+
+Deletion time of max element in Maxheap: 582 microseconds.
+
+AVL(preorder): 
+10.00
+5.00
+3.00
+2.00
+4.00
+7.00
+60.00
+30.00
+20.00
+50.00
+10000.00
+70.00
+1000000.00
+100000.00
+100000000.00
+
+AVL tree build time: 34 microseconds.
+
+AVL(preorder) after the insertion of 1.00: 
+10.00
+3.00
+2.00
+1.00
+5.00
+4.00
+7.00
+60.00
+30.00
+20.00
+50.00
+10000.00
+70.00
+1000000.00
+100000.00
+100000000.00
+
+Insertion time of 1.00 in AVL tree: 0 microseconds.
+
+The size of the AVL is: 16
+
+Get the size of AVL tree in: 14 microseconds.
+
+AVL(preorder) after the deletion of 2.00: 
+10.00
+3.00
+1.00
+5.00
+4.00
+7.00
+60.00
+30.00
+20.00
+50.00
+10000.00
+70.00
+1000000.00
+100000.00
+100000000.00
+
+Deletion time of 2.00 in AVL tree: 1 microseconds.
+
+The size of the AVL is: 15
+
+Get the size of AVL tree in: 14 microseconds.
+
+Search for element, with key 1.00, in AVL: SUCCESS
+
+Search time of 1.00 in AVL tree: 15 microseconds.
+
+Search for element, with key 2.00, in AVL: FAILURE
+
+Search time of 2.00 in AVL tree: 14 microseconds.
+
+Minimum of AVL: 1.00
+
+Get the minimum element of AVL tree in: 14 microseconds.
+
+The size of the AVL is: 15
+
+Get the size of AVL tree in: 11 microseconds.
+
+HASHTABLE: 
+0-->10.00-->20.00-->30.00-->50.00-->70.00-->60.00-->10000.00-->100000.00-->1000000.00-->100000000.00
+1
+2-->2.00
+3-->3.00
+4-->4.00
+5-->5.00
+6
+7-->7.00
+8
+9
+
+Hashtale build time: 44 microseconds.
+
+Hashtable contains: 15 elements.
+
+Get the size of Hashtable in: 13 microseconds.
+
+Search for element 1.00 in Hashtable: FAILURE
+
+Search time of 1.00 in Hashtable: 16 microseconds.
+
+Hashtable after the insertion of 1.00: 
+0-->10.00-->20.00-->30.00-->50.00-->70.00-->60.00-->10000.00-->100000.00-->1000000.00-->100000000.00
+1-->1.00
+2-->2.00
+3-->3.00
+4-->4.00
+5-->5.00
+6
+7-->7.00
+8
+9
+
+Insertion time of 1.00 in Hashtable: 1 microseconds.
+
+Hashtable contains: 16 elements.
+
+Get the size of Hashtable in: 13 microseconds.
+
+Search for element 7.00 in Hashtable: SUCCESS
+
+Search time of 7.00 in Hashtable: 15 microseconds.
+
+Search for element 1.00 in Hashtable: SUCCESS
+
+Search time of 1.00 in Hashtable: 14 microseconds.
+
+Search for element 60.00 in Hashtable: SUCCESS
+
+Search time of 60.00 in Hashtable: 15 microseconds.
+
+Search for element 40.00 in Hashtable: FAILURE
+
+Search time of 40.00 in Hashtable: 15 microseconds.
+
